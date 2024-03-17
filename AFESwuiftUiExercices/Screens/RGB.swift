@@ -68,7 +68,7 @@ struct RGB: View {
                 Spacer()
             }
         }
-        .foregroundStyle(red == 0 && blue == 0 && green == 0 ? .white : .black)
+        .foregroundStyle(red < 20 && blue < 20 && green < 20 ? .white : .black)
     }
 }
 

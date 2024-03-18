@@ -9,6 +9,19 @@
 /* Begin PBXBuildFile section */
 		631C80DE2BA4F04E003D7CF0 /* ColorLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631C80DD2BA4F04E003D7CF0 /* ColorLearn.swift */; };
 		631C80E02BA4F2C7003D7CF0 /* RGB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631C80DF2BA4F2C7003D7CF0 /* RGB.swift */; };
+		63B6108A2BA8D04D00784F50 /* ModelsMyPets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610892BA8D04D00784F50 /* ModelsMyPets.swift */; };
+		63B6108C2BA8D0F800784F50 /* MainViewMyPets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B6108B2BA8D0F800784F50 /* MainViewMyPets.swift */; };
+		63B6108F2BA8D13300784F50 /* ExtAnimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B6108E2BA8D13300784F50 /* ExtAnimal.swift */; };
+		63B610912BA8D15100784F50 /* ExtButtonAnimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610902BA8D15100784F50 /* ExtButtonAnimal.swift */; };
+		63B610932BA8D17000784F50 /* ExtFavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610922BA8D17000784F50 /* ExtFavoriteButton.swift */; };
+		63B610952BA8D1A000784F50 /* ExtEmptyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610942BA8D1A000784F50 /* ExtEmptyList.swift */; };
+		63B610972BA8D1CF00784F50 /* ExtAnimalschoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610962BA8D1CF00784F50 /* ExtAnimalschoice.swift */; };
+		63B610992BA8D1F100784F50 /* ExtButtonAnimalChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610982BA8D1F100784F50 /* ExtButtonAnimalChoice.swift */; };
+		63B6109C2BA8D2C900784F50 /* MyFavoriteSingerMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B6109B2BA8D2C900784F50 /* MyFavoriteSingerMainView.swift */; };
+		63B6109E2BA8D2E800784F50 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B6109D2BA8D2E800784F50 /* Artist.swift */; };
+		63B610A02BA8D31200784F50 /* CreateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B6109F2BA8D31200784F50 /* CreateView.swift */; };
+		63B610A22BA8D33A00784F50 /* UpdateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610A12BA8D33A00784F50 /* UpdateView.swift */; };
+		63B610A42BA8D35E00784F50 /* ArtistSongView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B610A32BA8D35E00784F50 /* ArtistSongView.swift */; };
 		63DD1ABD2B962147000C1CAC /* AFESwuiftUiExercicesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DD1ABC2B962147000C1CAC /* AFESwuiftUiExercicesApp.swift */; };
 		63DD1ABF2B962147000C1CAC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DD1ABE2B962147000C1CAC /* ContentView.swift */; };
 		63DD1AC12B962149000C1CAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DD1AC02B962149000C1CAC /* Assets.xcassets */; };
@@ -25,6 +38,19 @@
 /* Begin PBXFileReference section */
 		631C80DD2BA4F04E003D7CF0 /* ColorLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorLearn.swift; sourceTree = "<group>"; };
 		631C80DF2BA4F2C7003D7CF0 /* RGB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGB.swift; sourceTree = "<group>"; };
+		63B610892BA8D04D00784F50 /* ModelsMyPets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelsMyPets.swift; sourceTree = "<group>"; };
+		63B6108B2BA8D0F800784F50 /* MainViewMyPets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewMyPets.swift; sourceTree = "<group>"; };
+		63B6108E2BA8D13300784F50 /* ExtAnimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtAnimal.swift; sourceTree = "<group>"; };
+		63B610902BA8D15100784F50 /* ExtButtonAnimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtButtonAnimal.swift; sourceTree = "<group>"; };
+		63B610922BA8D17000784F50 /* ExtFavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtFavoriteButton.swift; sourceTree = "<group>"; };
+		63B610942BA8D1A000784F50 /* ExtEmptyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtEmptyList.swift; sourceTree = "<group>"; };
+		63B610962BA8D1CF00784F50 /* ExtAnimalschoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtAnimalschoice.swift; sourceTree = "<group>"; };
+		63B610982BA8D1F100784F50 /* ExtButtonAnimalChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtButtonAnimalChoice.swift; sourceTree = "<group>"; };
+		63B6109B2BA8D2C900784F50 /* MyFavoriteSingerMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFavoriteSingerMainView.swift; sourceTree = "<group>"; };
+		63B6109D2BA8D2E800784F50 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
+		63B6109F2BA8D31200784F50 /* CreateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateView.swift; sourceTree = "<group>"; };
+		63B610A12BA8D33A00784F50 /* UpdateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateView.swift; sourceTree = "<group>"; };
+		63B610A32BA8D35E00784F50 /* ArtistSongView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistSongView.swift; sourceTree = "<group>"; };
 		63DD1AB92B962147000C1CAC /* AFESwuiftUiExercices.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AFESwuiftUiExercices.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DD1ABC2B962147000C1CAC /* AFESwuiftUiExercicesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFESwuiftUiExercicesApp.swift; sourceTree = "<group>"; };
 		63DD1ABE2B962147000C1CAC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,6 +76,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		63B610872BA8CFD800784F50 /* MyPets */ = {
+			isa = PBXGroup;
+			children = (
+				63B6108D2BA8D11900784F50 /* ViewListMyPets */,
+				63B610882BA8D02300784F50 /* DataMyPets */,
+				63B6108B2BA8D0F800784F50 /* MainViewMyPets.swift */,
+			);
+			path = MyPets;
+			sourceTree = "<group>";
+		};
+		63B610882BA8D02300784F50 /* DataMyPets */ = {
+			isa = PBXGroup;
+			children = (
+				63B610892BA8D04D00784F50 /* ModelsMyPets.swift */,
+			);
+			path = DataMyPets;
+			sourceTree = "<group>";
+		};
+		63B6108D2BA8D11900784F50 /* ViewListMyPets */ = {
+			isa = PBXGroup;
+			children = (
+				63B6108E2BA8D13300784F50 /* ExtAnimal.swift */,
+				63B610902BA8D15100784F50 /* ExtButtonAnimal.swift */,
+				63B610922BA8D17000784F50 /* ExtFavoriteButton.swift */,
+				63B610942BA8D1A000784F50 /* ExtEmptyList.swift */,
+				63B610962BA8D1CF00784F50 /* ExtAnimalschoice.swift */,
+				63B610982BA8D1F100784F50 /* ExtButtonAnimalChoice.swift */,
+			);
+			path = ViewListMyPets;
+			sourceTree = "<group>";
+		};
+		63B6109A2BA8D28900784F50 /* MyFavoriteSinger */ = {
+			isa = PBXGroup;
+			children = (
+				63B6109B2BA8D2C900784F50 /* MyFavoriteSingerMainView.swift */,
+				63B6109D2BA8D2E800784F50 /* Artist.swift */,
+				63B6109F2BA8D31200784F50 /* CreateView.swift */,
+				63B610A12BA8D33A00784F50 /* UpdateView.swift */,
+				63B610A32BA8D35E00784F50 /* ArtistSongView.swift */,
+			);
+			path = MyFavoriteSinger;
+			sourceTree = "<group>";
+		};
 		63DD1AB02B962147000C1CAC = {
 			isa = PBXGroup;
 			children = (
@@ -89,6 +158,8 @@
 		63DD1ACA2B962154000C1CAC /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				63B6109A2BA8D28900784F50 /* MyFavoriteSinger */,
+				63B610872BA8CFD800784F50 /* MyPets */,
 				63DD1ACB2B96218F000C1CAC /* MyFirstSwiftUiApp.swift */,
 				63DD1ACD2B96234D000C1CAC /* ActivityPerson.swift */,
 				63DD1ACF2B972EFD000C1CAC /* ZstackActivity.swift */,
@@ -172,17 +243,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63B610A02BA8D31200784F50 /* CreateView.swift in Sources */,
+				63B610952BA8D1A000784F50 /* ExtEmptyList.swift in Sources */,
 				63DD1ABF2B962147000C1CAC /* ContentView.swift in Sources */,
 				63DD1B572B98FB4E000C1CAC /* RandomDice.swift in Sources */,
+				63B6109C2BA8D2C900784F50 /* MyFavoriteSingerMainView.swift in Sources */,
+				63B6108C2BA8D0F800784F50 /* MainViewMyPets.swift in Sources */,
 				631C80E02BA4F2C7003D7CF0 /* RGB.swift in Sources */,
+				63B6109E2BA8D2E800784F50 /* Artist.swift in Sources */,
+				63B610912BA8D15100784F50 /* ExtButtonAnimal.swift in Sources */,
+				63B610972BA8D1CF00784F50 /* ExtAnimalschoice.swift in Sources */,
+				63B6108A2BA8D04D00784F50 /* ModelsMyPets.swift in Sources */,
+				63B6108F2BA8D13300784F50 /* ExtAnimal.swift in Sources */,
 				63DD1B592B9903D7000C1CAC /* WeatherSlider.swift in Sources */,
 				63DD1ACC2B962190000C1CAC /* MyFirstSwiftUiApp.swift in Sources */,
 				63DD1ABD2B962147000C1CAC /* AFESwuiftUiExercicesApp.swift in Sources */,
 				63DD1AD02B972EFD000C1CAC /* ZstackActivity.swift in Sources */,
+				63B610A42BA8D35E00784F50 /* ArtistSongView.swift in Sources */,
 				63DD1B392B98A9B5000C1CAC /* SelectASuit.swift in Sources */,
 				63DD1ACE2B96234D000C1CAC /* ActivityPerson.swift in Sources */,
+				63B610A22BA8D33A00784F50 /* UpdateView.swift in Sources */,
 				631C80DE2BA4F04E003D7CF0 /* ColorLearn.swift in Sources */,
+				63B610992BA8D1F100784F50 /* ExtButtonAnimalChoice.swift in Sources */,
 				63DD1AD22B9730A4000C1CAC /* Gradient.swift in Sources */,
+				63B610932BA8D17000784F50 /* ExtFavoriteButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

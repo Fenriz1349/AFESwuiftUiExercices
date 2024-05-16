@@ -33,6 +33,8 @@
 		63DD1B392B98A9B5000C1CAC /* SelectASuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DD1B382B98A9B5000C1CAC /* SelectASuit.swift */; };
 		63DD1B572B98FB4E000C1CAC /* RandomDice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DD1B562B98FB4E000C1CAC /* RandomDice.swift */; };
 		63DD1B592B9903D7000C1CAC /* WeatherSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DD1B582B9903D7000C1CAC /* WeatherSlider.swift */; };
+		B120C9182BF5D16D009CCFEB /* Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = B120C9172BF5D16D009CCFEB /* Conversion.swift */; };
+		B120C91A2BF5DE1B009CCFEB /* BMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B120C9192BF5DE1B009CCFEB /* BMI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +65,8 @@
 		63DD1B382B98A9B5000C1CAC /* SelectASuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectASuit.swift; sourceTree = "<group>"; };
 		63DD1B562B98FB4E000C1CAC /* RandomDice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomDice.swift; sourceTree = "<group>"; };
 		63DD1B582B9903D7000C1CAC /* WeatherSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherSlider.swift; sourceTree = "<group>"; };
+		B120C9172BF5D16D009CCFEB /* Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conversion.swift; sourceTree = "<group>"; };
+		B120C9192BF5DE1B009CCFEB /* BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,7 +172,9 @@
 				631C80DD2BA4F04E003D7CF0 /* ColorLearn.swift */,
 				631C80DF2BA4F2C7003D7CF0 /* RGB.swift */,
 				63DD1B562B98FB4E000C1CAC /* RandomDice.swift */,
+				B120C9192BF5DE1B009CCFEB /* BMI.swift */,
 				63DD1B582B9903D7000C1CAC /* WeatherSlider.swift */,
+				B120C9172BF5D16D009CCFEB /* Conversion.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -249,11 +255,13 @@
 				63DD1B572B98FB4E000C1CAC /* RandomDice.swift in Sources */,
 				63B6109C2BA8D2C900784F50 /* MyFavoriteSingerMainView.swift in Sources */,
 				63B6108C2BA8D0F800784F50 /* MainViewMyPets.swift in Sources */,
+				B120C9182BF5D16D009CCFEB /* Conversion.swift in Sources */,
 				631C80E02BA4F2C7003D7CF0 /* RGB.swift in Sources */,
 				63B6109E2BA8D2E800784F50 /* Artist.swift in Sources */,
 				63B610912BA8D15100784F50 /* ExtButtonAnimal.swift in Sources */,
 				63B610972BA8D1CF00784F50 /* ExtAnimalschoice.swift in Sources */,
 				63B6108A2BA8D04D00784F50 /* ModelsMyPets.swift in Sources */,
+				B120C91A2BF5DE1B009CCFEB /* BMI.swift in Sources */,
 				63B6108F2BA8D13300784F50 /* ExtAnimal.swift in Sources */,
 				63DD1B592B9903D7000C1CAC /* WeatherSlider.swift in Sources */,
 				63DD1ACC2B962190000C1CAC /* MyFirstSwiftUiApp.swift in Sources */,

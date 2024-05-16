@@ -27,19 +27,19 @@ class Animal : ObservableObject,Identifiable {
     }
 }
 
-class AnimalViewModel : ObservableObject {
-    @Published var animals : [Animal] = [
-        Animal(name: "Cerf", image: "Cerf"),
-        Animal(name: "Chat", image: "Chat"),
-        Animal(name: "Chien", image: "Chien"),
-        Animal(name: "Grenouille", image: "Grenouille"),
-        Animal(name: "Lapin", image: "Lapin"),
-        Animal(name: "Lion", image: "Lion"),
-        Animal(name: "Panda", image: "Panda"),
-        Animal(name: "Singe", image: "Singe"),
-        Animal(name: "Vache", image: "Vache")
-    ]
-}
+//class AnimalViewModel : ObservableObject {
+//    @Published var animals : [Animal] = [
+//        Animal(name: "Cerf", image: "Cerf"),
+//        Animal(name: "Chat", image: "Chat"),
+//        Animal(name: "Chien", image: "Chien"),
+//        Animal(name: "Grenouille", image: "Grenouille"),
+//        Animal(name: "Lapin", image: "Lapin"),
+//        Animal(name: "Lion", image: "Lion"),
+//        Animal(name: "Panda", image: "Panda"),
+//        Animal(name: "Singe", image: "Singe"),
+//        Animal(name: "Vache", image: "Vache")
+//    ]
+//}
 //struc pour uniformiser le style des titres
 struct TitleFontStyle: ViewModifier {
     func body(content: Content) -> some View {
